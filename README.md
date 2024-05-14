@@ -5,7 +5,7 @@
 
 ##
 - 💡 "As grandes ideias surgem da observação dos pequenos detalhes" - Augusto Cury.
-#
+
 
 
 <!---
