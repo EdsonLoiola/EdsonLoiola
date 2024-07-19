@@ -2,13 +2,10 @@
 - 🏣 Junior Developer in Essence Mediacom
 - 💻 BackEnd: C# and .NEt
 - 🐍 Learning Python
--
--
 
 ##
-- 💡 "As grandes ideias surgem da observação dos pequenos detalhes" - Augusto Cury.
+💡 "As grandes ideias surgem da observação dos pequenos detalhes" - Augusto Cury.
 
-#Oi
 
 
 <!---
